@@ -1,0 +1,1 @@
+Questo è un git di test per il workshop di MaidenHead di Agosto 2019
